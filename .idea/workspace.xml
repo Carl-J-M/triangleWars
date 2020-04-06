@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66564e69-b98c-41fc-bfe5-922ac37c52ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxLsTJDFuTjE6hI8dzLZkFX62M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Items" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Items" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EnvironmentManagerTest.tileSetHasTiles">
+    <configuration name="Environment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Environment" />
+      <module name="triangleWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnvironmentManagerTest.environmentHasTiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="triangleWars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnvironmentManagerTest" />
+      <option name="METHOD_NAME" value="environmentHasTiles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnvironmentManagerTest.environmentManagerCanGetSpecificTile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="triangleWars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnvironmentManagerTest" />
+      <option name="METHOD_NAME" value="environmentManagerCanGetSpecificTile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnvironmentManagerTest.tileSetHasTiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="triangleWars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnvironmentManagerTest" />
+      <option name="METHOD_NAME" value="tileSetHasTiles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanoidTest.spellsCostMana" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="triangleWars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HumanoidTest" />
+      <option name="METHOD_NAME" value="spellsCostMana" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EnvironmentManagerTest.tileSetHasTiles" />
+        <item itemvalue="JUnit.EnvironmentManagerTest.environmentManagerCanGetSpecificTile" />
+        <item itemvalue="JUnit.EnvironmentManagerTest.environmentHasTiles" />
+        <item itemvalue="Application.Environment" />
+        <item itemvalue="JUnit.HumanoidTest.spellsCostMana" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66564e69-b98c-41fc-bfe5-922ac37c52ef" name="Default Changelist" comment="" />
+      <created>1585776004719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585776004719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="865" y="182" key="#com.intellij.ide.util.MemberChooser" timestamp="1586045118951">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="476" y="309" key="#com.intellij.ide.util.MemberChooser/0.23.1280.707@0.23.1280.707" timestamp="1585784044234" />
+    <state x="476" y="181" key="#com.intellij.ide.util.MemberChooser/0.23.1280.712@0.23.1280.712" timestamp="1585838842153" />
+    <state x="865" y="182" key="#com.intellij.ide.util.MemberChooser/0.23.1280.714@0.23.1280.714" timestamp="1586045118951" />
+    <state x="414" y="245" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586170704235">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="414" y="243" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.709@0.23.1280.709" timestamp="1585858205042" />
+    <state x="414" y="245" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.714@0.23.1280.714" timestamp="1586170704235" />
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1586122835750">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1585909854336" />
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1585831599677" />
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1586085223993" />
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1586122835750" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1586122835749">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1585909854334" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1585831599675" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1586085223992" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1586122835749" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1586122835748">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1585909854333" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1585831599675" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1586085223991" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1586122835748" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1586122835750">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1585909854335" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1585831599676" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1586085223992" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1586122835750" />
+    <state x="298" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586033189930">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="298" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.714@0.23.1280.714" timestamp="1586033189930" />
+    <state x="306" y="23" width="667" height="714" key="find.popup" timestamp="1586043563971">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="306" y="23" width="667" height="714" key="find.popup/0.23.1280.714@0.23.1280.714" timestamp="1586043563971" />
+    <state x="402" y="23" key="refactoring.ChangeSignatureDialog" timestamp="1586083684216">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="402" y="23" key="refactoring.ChangeSignatureDialog/0.23.1280.714@0.23.1280.714" timestamp="1586083684216" />
+    <state x="305" y="59" width="670" height="678" key="search.everywhere.popup" timestamp="1586032095625">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="305" y="59" width="670" height="676" key="search.everywhere.popup/0.23.1280.712@0.23.1280.712" timestamp="1585839735939" />
+    <state x="305" y="59" width="670" height="678" key="search.everywhere.popup/0.23.1280.714@0.23.1280.714" timestamp="1586032095625" />
+  </component>
+</project>
